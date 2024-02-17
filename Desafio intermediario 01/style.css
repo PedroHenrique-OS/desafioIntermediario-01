@@ -1,0 +1,87 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer{
+    display: block;
+    top: 399px;
+    width: 626px;
+
+}
+
+#footer a + a{
+    margin-left: 42px;
+}
+
+#rodape {
+    width: 100%;
+    text-align: center;
+    padding: 80px 0 40px;
+}
+#footer img{
+    width: 626px;
+}
+
+#line{
+    margin: auto;
+    width: 391px;
+    border: 1px solid #ECEFF2;
+}
+#main {
+    align-items: center;
+    display: block;
+    margin: 64px 199px 240px 199px;
+    
+    width: 626px ;
+    height: 486px;
+}
+h1 strong{
+    color: #EE24FF;
+}
+h1{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+}
+
+a{
+   font-family: "Open Sans", sans-serif;
+   font-optical-sizing: 147.7%;
+   font-weight: 700;
+   font-style: normal;
+   color: #3F3D56;
+}
+.paragrafo1{
+    width: 494px;
+    right: 40px;
+}
+.paragrafo2{
+    width: 540px;
+    right: 107px;
+}
+.paragrafo1{
+    width: 626px;
+    right: 21px;
+}
+p {
+font-family: "Open Sans", sans-serif;
+font-optical-sizing: 15px;
+font-weight: 400;
+font-style: normal;
+
+text-align: center;
+
+}
+
+#flutuar {
+    color:#828282;
+}
+strong {
+        color: #3F3D56;
+}
